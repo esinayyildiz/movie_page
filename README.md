@@ -1,4 +1,4 @@
-# movie_page
+# Movie Page
 After making sure we're on path(project path) to do the project, use these commands to create virtual environment:
 
 -pip install virtualenv
