@@ -1,5 +1,5 @@
 # movie_page
-First of all, use these commands to create virtual environment:
+After making sure we're on path(project path) to do the project, use these commands to create virtual environment:
 
 -pip install virtualenv
 -python -m virtualenv .
